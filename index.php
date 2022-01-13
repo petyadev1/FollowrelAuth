@@ -12,7 +12,7 @@ $user = $_POST['username'];
   <div id="gSignInWrapper">
     <span class="label">Sign in with:</span>
     <div onclick="goToFRL()" id="customBtn" class="customGPlusSignIn">
-      <span class="icon"><img class="FollowrelImg" src="assets/playstore12.png"></span>
+      <span class="icon"><img class="FollowrelImg" src="assets/faviconpng.png"></span>
       <span class="buttonText">Followrel</span>
     </div>
   </div>
