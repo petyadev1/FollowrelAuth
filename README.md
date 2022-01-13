@@ -15,3 +15,6 @@ Use this script to log into your app with Followrel credentials. To make it work
 <details>
 <summary>Coming soon</summary>
 </details>
+
+# Important
+Please note that the user is need to be logged-in to use our auth system.
